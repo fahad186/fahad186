@@ -1,18 +1,18 @@
 ![I am Web Developer](https://pbs.twimg.com/profile_banners/1393459963717029889/1622736046/1500x500)
 ## Hi, I'm Fahad Bin Aref 👋
 <p>
-👑 I am Web Developer <br> 
-🖊️ Love to write code <br> 
+👑 I am Front End Developer <br> 
+🖊️ #Coding Addict <br> 
  </p> 
 
 ![Profile views](https://gpvc.arturio.dev/fahad186) 
 
-I am Fahad Bin Aref, I am a pixel-perfect web developer. I am experienced and expert in the web design/development section and working since 2020
+I am Fahad Bin Aref, I am a Front End Developer. I am experienced and expert in JavaScript & React JS working since 2020
 ## 👨‍💻 Skills & Experiance: 
-✅ WordPress <br> 
+✅ React <br> 
 ✅ JavaScript <br>
 ✅ HTML5 / CSS3 / Bootstrap <br>
-✅ Photoshop / Illustrator <br>
+✅ Photoshop / Illustrator / Figma <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad186)](https://github.com/anuraghazra/github-readme-stats)
 
