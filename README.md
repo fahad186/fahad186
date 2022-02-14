@@ -3,7 +3,7 @@
 <p>
 👑 I am Front End Developer <br> 
 🖊️ #Coding Addict <br> 
- </p> ![Screenshot_2]
+
 
 
 ![Profile views](https://gpvc.arturio.dev/fahad186) 
